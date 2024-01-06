@@ -1,4 +1,4 @@
-# Welcome to Algorithms, Part I
+# Algorithms, Part I
 
 Cousera online course, [Algorithms, Part I][1], created by Princeton
 University, taught by: _Kevin Wayne_, Senior Lecturer and _Robert Sedgewick_,
