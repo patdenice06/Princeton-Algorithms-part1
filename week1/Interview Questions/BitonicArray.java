@@ -77,7 +77,7 @@ public class BitonicArray {
 
 
     public static void main(String[] args) {
-        int[] a = new int[] { 1, 3, 8, 12, 4, 2 };
+        int[] a = new int[] { 0, 1, 10, 19, 24, 30, 38, 37, 34, 28 };
         int key = 4;
         int index = Search(a, key);
         if (index != -1)
