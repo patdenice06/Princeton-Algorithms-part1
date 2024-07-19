@@ -28,7 +28,7 @@ This codebase only covers the Part I.
 
 Assignment | Name | Score
 :--- | :--- | ---
-Week 1 | [Percolation][w1] | 83/100
+Module 2 | [Percolation][w1] | 83/100
 
 
 
