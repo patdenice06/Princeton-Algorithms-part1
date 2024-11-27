@@ -29,6 +29,7 @@ This codebase only covers the Part I.
 Assignment | Name | Score
 :--- | :--- | ---
 Module 2 | [Percolation][w1] | 83/100
+Module 4 | [Deques and Randomized Queues][w2] | 97/100
 
 
 
@@ -40,4 +41,5 @@ Module 2 | [Percolation][w1] | 83/100
 [6]: https://lift.cs.princeton.edu/java/windows
 [7]: https://lift.cs.princeton.edu/java/linux
 [8]: https://www.coursera.org/learn/algorithms-part1/resources/R2mre
-[w1]: http://coursera.cs.princeton.edu/algs4/assignments/percolation.html
+[w1]: https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php
+[w2]: https://coursera.cs.princeton.edu/algs4/assignments/queues/specification.php
